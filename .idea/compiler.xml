@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Caso1" />
+        <module name="Caso3" />
+        <module name="Caso2" />
+        <module name="Caso5" />
+        <module name="Caso4" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Caso 1" target="1.5" />
+      <module name="Caso1" target="1.5" />
+      <module name="Caso2" target="1.5" />
+      <module name="Caso3" target="1.5" />
+      <module name="Caso4" target="1.5" />
+      <module name="Caso5" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
